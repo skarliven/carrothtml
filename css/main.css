@@ -1,0 +1,140 @@
+body {
+  background-color: #F5FCFE;
+}
+/* Navigation */
+.navigation {
+  background-color: #F5AF58;
+  height: 113px;
+
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation li {
+  display: inline-block;
+  margin: 5px 20px;
+
+}
+
+.navigation ul {
+  text-align: right;
+  padding: 25px;
+}
+/* Anchor  */
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 26px;
+  text-decoration: none;
+
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  float: left;
+  font-size: 26px;
+  margin-top: 15px;
+  padding: 15px 0px;
+}
+/* img logo */
+.navigation img {
+  position: relative;
+
+}
+.navigation img {
+  float: left;
+  height: 100%;
+  padding-left: 20px
+}
+
+.navigation h1 {
+  position: relative;
+
+}
+
+/* Search */
+
+div.searchBox {
+    float: right;
+    padding: 0px 0px 0px;
+    margin-top: 17px;
+    margin-right: 25px;
+    background: white;
+    border-width: 0px;
+
+}
+input {
+  padding: 9px 20px 14px 16px;
+  background-color: #F0F0F0;
+  color: #BBBBBB;
+  border: outset;
+  font-size: 25px;
+  font-weight: 100;
+}
+
+/* midle section */
+.img img {
+  float: left;
+  height: 100%;
+  position: relative;
+  width: 617px;
+}
+p {
+  text-align: left;
+  padding: 146px 76px 0px 735px;
+  margin-top: 9px;
+  margin-right: 32px;
+  font-size: 35px;
+  font-family: Montserrat, sans-serif;
+  color: #F4AF5D;
+}
+/* buttons  */
+div.buttons {
+  text-align: right;
+  padding: 60px 51px
+}
+.buttons button1 {
+    background-color: #7CC285;
+    color: white;
+    font-size: 18px;
+    line-height: 27px;
+    margin: 67px 12px;
+    padding: 16px 49px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Montserrat, sans-serif;
+
+}
+.buttons button2 {
+    background-color: #F5AF58;
+    color: white;
+    font-size: 18px;
+    line-height: 27px;
+    margin: 67px 12px;
+    padding: 16px 49px;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Montserrat, sans-serif;
+  }
+
+/* footer  */
+  footer {
+    text-align: center;
+    background-color: #7CC285;
+    height: 113px
+  }
+
+  footer ul {
+    display: inline;
+    font-size: 33px;
+    padding: 6px;
+    color: white;
+}
+
+ footer ul li {
+   display: inline-block;
+   margin: 31px 15px;
+ }
