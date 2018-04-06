@@ -1,7 +1,7 @@
 body {
   background-color: #F5FCFE;
 }
-/* @media */
+
 
 /* Navigation */
 .navigation {
@@ -110,25 +110,32 @@ div.buttons {
 .buttons button1 {
     background-color: #7CC285;
     color: white;
+    /* font-size: 18px; */
     font-size: 18px;
     line-height: 27px;
-    margin: 67px 12px;
-    padding: 16px 49px;
+    margin: 153px 12px;
+    padding: 15px 0px;
     display: inline-block;
     cursor: pointer;
     font-family: Montserrat, sans-serif;
+    width: 17%;
+    text-align: center;
+
 
 }
 .buttons button2 {
     background-color: #F5AF58;
     color: white;
+    /* font-size: 18px; */
     font-size: 18px;
     line-height: 27px;
-    margin: 67px 12px;
-    padding: 16px 49px;
+    margin: 153px 12px;
+    padding: 15px 0px;
     display: inline-block;
     cursor: pointer;
     font-family: Montserrat, sans-serif;
+    width: 17%;
+    text-align: center;
   }
 
 /* footer  */
